@@ -91,6 +91,8 @@
 
 > 💡 "Automation is good, so long as you know exactly where to put the machine."
 
+> 💡 "Automate what is repetitive. Monitor what is critical. Improve continuously."
+
 ---
 
 ⭐ From **Gajanan Shinde**
